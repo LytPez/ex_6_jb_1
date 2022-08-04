@@ -14,3 +14,4 @@ function perdeuFoco(){
 
 focado.addEventListener('focus',recebeFoco)
 focado.addEventListener('blur',perdeuFoco)
+// gui
